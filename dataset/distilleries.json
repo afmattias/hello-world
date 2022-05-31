@@ -1,0 +1,17 @@
+{
+	"name": "distilleries",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AcgSandbox_distilleries",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "stg",
+			"table": "distilleries"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "AdfDemoAnalyticsGroup",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b72ce6fd-7f89-4412-8ccb-2d16fac8fffb",
+		"tenantId": "58af3eba-510e-4544-8cfd-85f5e0206382"
+	}
+}
