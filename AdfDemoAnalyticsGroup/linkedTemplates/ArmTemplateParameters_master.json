@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "AdfDemoAnalyticsGroup"
+		},
+		"AcgSandbox_distilleries_connectionString": {
+			"value": ""
+		},
+		"FileServer1_password": {
+			"value": ""
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"FileServer1_properties_typeProperties_host": {
+			"value": "C:\\Users\\A546770\\OneDrive - AFRY\\Dev\\Support\\admintool 2"
+		},
+		"FileServer1_properties_typeProperties_userId": {
+			"value": "acgadmin"
+		},
+		"HttpServer1_properties_typeProperties_url": {
+			"value": "https://whiskyhunter.net/apidistilleries_info/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
